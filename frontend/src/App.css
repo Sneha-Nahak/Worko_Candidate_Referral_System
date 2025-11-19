@@ -1,0 +1,4 @@
+
+html,body { background-attachment: fixed; }
+.brand-sub { font-size:13px }
+.disabled { pointer-events:none; opacity:0.5 }
