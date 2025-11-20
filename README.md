@@ -72,6 +72,7 @@ Backend
 ✔ Static File Serving for Uploads
 
 📁 Project Folder Structure
+```
 candidate-referral-system/
 │
 ├── backend/
@@ -98,6 +99,7 @@ candidate-referral-system/
     │   ├── main.jsx
     │   └── index.css
     └── package.json
+```
 
 🔌 Backend API Documentation
 Base URL:
